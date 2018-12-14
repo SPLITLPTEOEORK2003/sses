@@ -9,7 +9,7 @@ const moment = require('moment');
 
 
 var Eris = require("eris");
-let  ID = "448501199608610826";
+let  ID = "353708472690540564";
 const BT  = new Eris(process.env.BOT_TOKEN);
 BT.connect(process.env.BOT_TOKEN)
 BT.on("ready", ready => {
@@ -95,7 +95,7 @@ client.on('message', message => {
         return ':x:';
       }
     };
-    if (message.content === '*per') {
+    if (message.content === '.per') {
     message.channel.send({embed: {
       title: ':tools: Permissions',
       color: 0x06DF00,
@@ -239,7 +239,7 @@ client.on('message', message => {
    
   client.on("message", async message => {
     if(!message.channel.guild) return;
-    var prefix = "*";
+    var prefix = ".";
 if(message.content.startsWith(prefix + 'invites')) {
 var nul = 0
 var guild = message.guild
