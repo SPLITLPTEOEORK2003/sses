@@ -37,16 +37,16 @@ setInterval(function(){
             if (hours == 0) {
                 hours = 12;
             }
-BT.editChannel("448501199608610826", {name : "🌹WEL"})
-BT.editChannel("448501199608610826", {name : "🌹WELC"})
-BT.editChannel("448501199608610826", {name : "🌹WELCO"})
-BT.editChannel("448501199608610826", {name : "🌹WELCOM"})
-BT.editChannel("448501199608610826", {name : "🌹WELCOME"})
-BT.editChannel("448501199608610826", {name : "🌹WELCOME T"})
-BT.editChannel("448501199608610826", {name : "🌹WELCOME TO"})
-BT.editChannel("448501199608610826", {name : "🌹WELCOME TO P"})
-BT.editChannel("448501199608610826", {name : "🌹WELCOME TO PR"})
-BT.editChannel("448501199608610826", {name : "🌹WELCOME TO PRO🌹"})
+BT.editChannel("492087162125418517", {name : "🌹WEL"})
+BT.editChannel("492087162125418517", {name : "🌹WELC"})
+BT.editChannel("492087162125418517", {name : "🌹WELCO"})
+BT.editChannel("492087162125418517", {name : "🌹WELCOM"})
+BT.editChannel("492087162125418517", {name : "🌹WELCOME"})
+BT.editChannel("492087162125418517", {name : "🌹WELCOME T"})
+BT.editChannel("492087162125418517", {name : "🌹WELCOME TO"})
+BT.editChannel("492087162125418517", {name : "🌹WELCOME TO Myt"})
+BT.editChannel("492087162125418517", {name : "🌹WELCOME TO Myth"})
+BT.editChannel("492087162125418517", {name : "🌹WELCOME TO Myths🌹"})
 
 
 
@@ -797,7 +797,7 @@ message.react("😵")
 
 .emojis 「يعرض لك ايموجيات حقت السيرفر」
 
-🌎*rooms 「لعرض عدد واسماء الرومات」
+.rooms 「لعرض عدد واسماء الرومات」
 
 .roles 「لعرض اسماءالرتب」
 
@@ -807,7 +807,7 @@ message.react("😵")
 
 .say 「لي يكرر الكلام الذي تقوله」
 
-🌎رابط
+رابط
 「لارسال رابط السيرفر على الخاص」
 
 .invites 「يعرض لك كم جبت اعضاء لهذة السيرفر」
